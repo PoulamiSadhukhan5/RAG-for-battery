@@ -10,7 +10,7 @@ extracted from the paper’s abstracts.
 
 ## RAG
 Open `Battery_RAG.ipynb` in Google Colab.
-<a target="_blank" href="https://github.com/PoulamiSadhukhan5/RAG-for-battery/blob/main/Battery_RAG.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github.com/PoulamiSadhukhan5/RAG-for-battery/blob/main/Battery_RAG.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>\
 Connect to T4 GPU.\
